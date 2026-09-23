@@ -1,13 +1,42 @@
 # Lunar Blue for Omarchy
 
-A graphite-dark Omarchy theme with restrained lunar-blue accents, inspired by
+A graphite-dark Omarchy theme with luminous lunar-blue accents, inspired by
 the calm, technical color language of [zed.dev](https://zed.dev/).
 
 The theme is original and is not affiliated with or endorsed by Zed Industries.
 
-![Lunar Blue wallpaper](backgrounds/lunar-blue.png)
+![Lunar Blue wallpaper](backgrounds/lunar-blue-wanderer.png)
 
-The theme includes an expressive lunar wallpaper and a quieter focus variant.
+The theme includes thirteen original wallpapers ranging from cinematic space
+compositions to manga-inspired solitude and dark surreal scenes.
+
+## Wallpapers
+
+| Wanderer | Eclipse |
+| --- | --- |
+| ![A solitary figure beneath a blue planet](backgrounds/lunar-blue-wanderer.png) | ![Two figures watching an eclipse](backgrounds/lunar-blue-eclipse.png) |
+| **Solar system** | **Ringed world** |
+| ![A dark blue solar system](backgrounds/lunar-blue-orbits.png) | ![An astronaut beneath a ringed planet](backgrounds/lunar-blue-rings.png) |
+| **Observatory** |  |
+| ![A figure inside a planetary observatory](backgrounds/lunar-blue-observatory.png) |  |
+
+### Solitude series
+
+| On the ridge | Wreckage |
+| --- | --- |
+| ![A solitary explorer on a lunar ridge](backgrounds/lunar-blue-solitude-on-pole.png) | ![A hooded figure resting among blue ruins](backgrounds/lunar-blue-solitude-wreckage.png) |
+| **Climb** | **Ether** |
+| ![A lone mountaineer climbing through a blue void](backgrounds/lunar-blue-solitude-climb.png) | ![An ethereal figure dissolving into lunar-blue starlight](backgrounds/lunar-blue-solitude-ether.png) |
+| **Eyed** |  |
+| ![A seated figure beneath a cosmic blue eye](backgrounds/lunar-blue-solitude-eyed.png) |  |
+
+### Miasma series
+
+| Nature of fear | Crowned |
+| --- | --- |
+| ![A surreal faceless figure illuminated in lunar blue](backgrounds/lunar-blue-miasma-nature-of-fear.png) | ![A veiled crowned figure emerging from deep blue shadow](backgrounds/lunar-blue-miasma-crowned.png) |
+| **Omarchy** |  |
+| ![A pixel-art Omarchy wordmark in lunar blue](backgrounds/lunar-blue-miasma-omarchy.png) |  |
 
 ## Palette
 
@@ -56,10 +85,11 @@ unlink ~/.config/omarchy/themes/lunar-blue
 
 - A complete `colors.toml` palette used by Omarchy to generate terminal,
   shell, Hyprland, editor, and application colors.
-- A custom `shell.toml` with solid graphite surfaces, subtle blue focus
+- A custom `shell.toml` with solid graphite surfaces, vivid blue focus
   states, and fine borders.
 - A blue Yaru icon theme preference.
-- Two original dark lunar wallpapers: expressive and focus variants.
+- Thirteen original dark wallpapers with planets, orbits, human silhouettes,
+  and Lunar Blue reinterpretations of the Solitude and Miasma visual languages.
 
 ## Recommended typography
 
