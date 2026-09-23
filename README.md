@@ -16,11 +16,11 @@ The theme includes an expressive lunar wallpaper and a quieter focus variant.
 | Background | `#121316` |
 | Dark background | `#0d0d0f` |
 | Raised surface | `#212328` |
-| Foreground | `#e3e4e7` |
-| Muted text | `#727a89` |
+| Foreground | `#e8edf5` |
+| Muted text | `#818b9d` |
 | Accent | `#8ec5ff` |
 | Blue | `#8ec5ff` |
-| Selection | `#162456` |
+| Deep selection | `#1348dc` |
 
 ## Install
 
