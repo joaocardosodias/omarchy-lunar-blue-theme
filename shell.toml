@@ -7,8 +7,12 @@ background-alpha = 1.0
 text             = "#e8edf5"
 active           = "#1348dc"
 scale-with-font  = true
-size-horizontal  = 26
-size-vertical    = 28
+size-horizontal  = 32
+size-vertical    = 34
+icon-font        = 20
+icon-canvas      = 23
+icon-slot        = 34
+status-slot      = 27
 
 [hyprland]
 active-border            = "rgb(1348dc)"
@@ -48,6 +52,7 @@ scale-with-font = true
 
 [font]
 base-size = 12
+caption   = 13
 
 [popups]
 background       = "#121316"
