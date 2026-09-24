@@ -1,7 +1,7 @@
 mode = "dark"
 
 # Lunar Blue follows Zed's restrained graphite and cool-blue visual language.
-accent = "#8ec5ff"
+accent = "#1348dc"
 selection = "#1348dc"
 muted = "#596271"
 
@@ -15,7 +15,7 @@ dark_foreground = "#818b9d"
 light_foreground = "#d4dbe5"
 bright_foreground = "#f4f8ff"
 
-hyprland_active_border = "rgb(8ec5ff)"
+hyprland_active_border = "rgb(1348dc)"
 hyprland_inactive_border = "rgba(35383f80)"
 
 red = "#ff7b8e"
@@ -23,7 +23,7 @@ yellow = "#f2c66d"
 orange = "#ff9d70"
 green = "#a4d98f"
 cyan = "#7bd7e6"
-blue = "#8ec5ff"
+blue = "#1348dc"
 magenta = "#c1a7ff"
 brown = "#c79a89"
 
@@ -31,5 +31,5 @@ bright_red = "#ff9aaa"
 bright_yellow = "#ffdc92"
 bright_green = "#bceaa8"
 bright_cyan = "#a1ecf5"
-bright_blue = "#b7daff"
+bright_blue = "#8ec5ff"
 bright_magenta = "#d4c1ff"

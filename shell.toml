@@ -5,14 +5,14 @@
 background       = "#121316"
 background-alpha = 1.0
 text             = "#e8edf5"
-active           = "#8ec5ff"
+active           = "#1348dc"
 scale-with-font  = true
 size-horizontal  = 26
 size-vertical    = 28
 
 [hyprland]
-active-border            = "rgb(8ec5ff)"
-active-border-foreground = "rgb(8ec5ff)"
+active-border            = "rgb(1348dc)"
+active-border-foreground = "rgb(1348dc)"
 
 [controls]
 normal-color        = "#e8edf5"
@@ -23,19 +23,19 @@ normal-border-alpha = 0.28
 
 hover-cursor-color        = "#f4f8ff"
 hover-cursor-fill-alpha   = 0.10
-hover-cursor-border       = "#8ec5ff"
+hover-cursor-border       = "#1348dc"
 hover-cursor-border-width = 1
 hover-cursor-border-alpha = 0.35
 
 focus-color        = "#f4f8ff"
 focus-fill-alpha   = 0.15
-focus-border       = "#8ec5ff"
+focus-border       = "#1348dc"
 focus-border-width = 1
 focus-border-alpha = 0.62
 
 selected-color        = "#f4f8ff"
 selected-fill-alpha   = 0.20
-selected-border       = "#8ec5ff"
+selected-border       = "#1348dc"
 selected-border-width = 1
 selected-border-alpha = 0.42
 
@@ -84,7 +84,7 @@ scrim-alpha               = 0.58
 selected-background       = "#1348dc"
 selected-background-alpha = 0.40
 selected-text             = "#f4f8ff"
-selected-border           = "#8ec5ff"
+selected-border           = "#1348dc"
 selected-border-alpha     = 0.72
 
 [menu]
@@ -98,7 +98,7 @@ scrim-alpha               = 0.54
 selected-background       = "#1348dc"
 selected-background-alpha = 0.40
 selected-text             = "#f4f8ff"
-selected-border           = "#8ec5ff"
+selected-border           = "#1348dc"
 selected-border-alpha     = 0.72
 
 [polkit]
@@ -111,7 +111,7 @@ border-error     = "#ff7b8e"
 border-alpha     = 0.58
 scrim            = "#0d0d0f"
 scrim-alpha      = 0.62
-accent           = "#8ec5ff"
+accent           = "#1348dc"
 
 [lock]
 background       = "#121316"
@@ -130,7 +130,7 @@ selection-alpha  = 0.65
 scrim                   = "#0d0d0f"
 scrim-alpha             = 0.62
 text                    = "#e8edf5"
-selected-border         = "#8ec5ff"
+selected-border         = "#1348dc"
 selected-border-alpha   = 0.92
 unselected-border       = "#818b9d"
 unselected-border-alpha = 0.24

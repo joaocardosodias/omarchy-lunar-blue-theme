@@ -7,7 +7,7 @@ The theme is original and is not affiliated with or endorsed by Zed Industries.
 
 ![Lunar Blue wallpaper](backgrounds/lunar-blue-wanderer.png)
 
-The theme includes thirteen original wallpapers ranging from cinematic space
+The theme includes seventeen original wallpapers ranging from cinematic space
 compositions to manga-inspired solitude and dark surreal scenes.
 
 ## Wallpapers
@@ -38,6 +38,14 @@ compositions to manga-inspired solitude and dark surreal scenes.
 | **Omarchy** |  |
 | ![A pixel-art Omarchy wordmark in lunar blue](backgrounds/lunar-blue-miasma-omarchy.png) |  |
 
+### Osaka Jade series
+
+| Glowing city | Shaded entrance |
+| --- | --- |
+| ![A Japanese hillside city glowing in deep lunar blue](backgrounds/lunar-blue-osaka-glowing-city.png) | ![A traditional Japanese entrance beneath blue hanging foliage](backgrounds/lunar-blue-osaka-shaded-entrance.png) |
+| **Mountain moon** | **Omarchy** |
+| ![Layered blue mountains beneath a rising moon](backgrounds/lunar-blue-osaka-mountain-moon.png) | ![A deep-blue pixel-art Omarchy wordmark](backgrounds/lunar-blue-osaka-omarchy.png) |
+
 ## Palette
 
 | Role | Color |
@@ -47,9 +55,9 @@ compositions to manga-inspired solitude and dark surreal scenes.
 | Raised surface | `#212328` |
 | Foreground | `#e8edf5` |
 | Muted text | `#818b9d` |
-| Accent | `#8ec5ff` |
-| Blue | `#8ec5ff` |
-| Deep selection | `#1348dc` |
+| Primary accent | `#1348dc` |
+| Selection | `#1348dc` |
+| Soft highlight | `#8ec5ff` |
 
 ## Install
 
@@ -88,22 +96,32 @@ unlink ~/.config/omarchy/themes/lunar-blue
 - A custom `shell.toml` with solid graphite surfaces, vivid blue focus
   states, and fine borders.
 - A blue Yaru icon theme preference.
-- Thirteen original dark wallpapers with planets, orbits, human silhouettes,
-  and Lunar Blue reinterpretations of the Solitude and Miasma visual languages.
+- Seventeen original dark wallpapers with planets, orbits, human silhouettes,
+  and Lunar Blue reinterpretations of the Solitude, Miasma, and Osaka Jade
+  visual languages.
 
 ## Recommended typography
 
-Lunar Blue pairs well with the same typographic roles used by Zed's visual
-language:
+Lunar Blue uses the same typographic roles as Zed's visual language:
 
-- **Lilex Nerd Font Mono** for terminals and code.
-- **IBM Plex Sans** for application interfaces.
-- **iA Writer Quattro S** for Omarchy menus and editorial text.
+- **Lilex Nerd Font Mono** for the Omarchy bar, terminals, and code.
+- **iA Writer Quattro S** for summoned Omarchy menus and editorial text.
+- **IBM Plex Sans** for application interfaces such as Zed.
 
 On Arch Linux, the packaged dependencies are:
 
 ```bash
-omarchy pkg add ttf-ibm-plex ttf-lilex-nerd
+omarchy pkg add ttf-ibm-plex ttf-lilex-nerd ttf-ia-writer
+```
+
+Apply the system and menu roles with:
+
+```bash
+omarchy font set "Lilex Nerd Font Mono"
+mkdir -p ~/.config/environment.d
+printf 'OMARCHY_MENU_FONT="iA Writer Quattro S"\n' > ~/.config/environment.d/90-lunar-blue-fonts.conf
+systemctl --user set-environment OMARCHY_MENU_FONT="iA Writer Quattro S"
+omarchy restart shell
 ```
 
 ## Requirements
