@@ -5,20 +5,12 @@ the calm, technical color language of [zed.dev](https://zed.dev/).
 
 The theme is original and is not affiliated with or endorsed by Zed Industries.
 
-![Lunar Blue wallpaper](backgrounds/lunar-blue-wanderer.png)
+![Lunar Blue wallpaper](backgrounds/lunar-blue-solitude-on-pole.png)
 
-The theme includes seventeen original wallpapers ranging from cinematic space
-compositions to manga-inspired solitude and dark surreal scenes.
+The theme includes ten original wallpapers featuring manga-inspired solitude,
+dark surreal scenes, and Japanese landscapes.
 
 ## Wallpapers
-
-| Wanderer | Eclipse |
-| --- | --- |
-| ![A solitary figure beneath a blue planet](backgrounds/lunar-blue-wanderer.png) | ![Two figures watching an eclipse](backgrounds/lunar-blue-eclipse.png) |
-| **Solar system** | **Ringed world** |
-| ![A dark blue solar system](backgrounds/lunar-blue-orbits.png) | ![An astronaut beneath a ringed planet](backgrounds/lunar-blue-rings.png) |
-| **Observatory** |  |
-| ![A figure inside a planetary observatory](backgrounds/lunar-blue-observatory.png) |  |
 
 ### Solitude series
 
@@ -35,16 +27,14 @@ compositions to manga-inspired solitude and dark surreal scenes.
 | Nature of fear | Crowned |
 | --- | --- |
 | ![A surreal faceless figure illuminated in lunar blue](backgrounds/lunar-blue-miasma-nature-of-fear.png) | ![A veiled crowned figure emerging from deep blue shadow](backgrounds/lunar-blue-miasma-crowned.png) |
-| **Omarchy** |  |
-| ![A pixel-art Omarchy wordmark in lunar blue](backgrounds/lunar-blue-miasma-omarchy.png) |  |
 
 ### Osaka Jade series
 
 | Glowing city | Shaded entrance |
 | --- | --- |
 | ![A Japanese hillside city glowing in deep lunar blue](backgrounds/lunar-blue-osaka-glowing-city.png) | ![A traditional Japanese entrance beneath blue hanging foliage](backgrounds/lunar-blue-osaka-shaded-entrance.png) |
-| **Mountain moon** | **Omarchy** |
-| ![Layered blue mountains beneath a rising moon](backgrounds/lunar-blue-osaka-mountain-moon.png) | ![A deep-blue pixel-art Omarchy wordmark](backgrounds/lunar-blue-osaka-omarchy.png) |
+| **Mountain moon** |  |
+| ![Layered blue mountains beneath a rising moon](backgrounds/lunar-blue-osaka-mountain-moon.png) |  |
 
 ## Palette
 
@@ -96,7 +86,7 @@ unlink ~/.config/omarchy/themes/lunar-blue
 - A custom `shell.toml` with solid graphite surfaces, vivid blue focus
   states, and fine borders.
 - A blue Yaru icon theme preference.
-- Seventeen original dark wallpapers with planets, orbits, human silhouettes,
+- Ten original dark wallpapers with human silhouettes, surreal scenes,
   and Lunar Blue reinterpretations of the Solitude, Miasma, and Osaka Jade
   visual languages.
 
