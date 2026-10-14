@@ -7,8 +7,9 @@ The theme is original and is not affiliated with or endorsed by Zed Industries.
 
 ![Lunar Blue wallpaper](backgrounds/lunar-blue-solitude-on-pole.png)
 
-The theme includes ten original wallpapers featuring manga-inspired solitude,
-dark surreal scenes, and Japanese landscapes.
+The theme includes eleven wallpapers featuring manga-inspired solitude,
+dark surreal scenes, Japanese landscapes, and an adaptation of the
+“Automotivo Catucada 1.0 (Slowed)” single cover.
 
 ## Wallpapers
 
@@ -35,6 +36,10 @@ dark surreal scenes, and Japanese landscapes.
 | ![A Japanese hillside city glowing in deep lunar blue](backgrounds/lunar-blue-osaka-glowing-city.png) | ![A traditional Japanese entrance beneath blue hanging foliage](backgrounds/lunar-blue-osaka-shaded-entrance.png) |
 | **Mountain moon** |  |
 | ![Layered blue mountains beneath a rising moon](backgrounds/lunar-blue-osaka-mountain-moon.png) |  |
+
+### Single cover adaptation
+
+![Blue and black single cover art adapted to a widescreen wallpaper](backgrounds/lunar-blue-sacrifice.png)
 
 ## Palette
 
